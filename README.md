@@ -80,7 +80,7 @@
 
 ### 🚀 Current Projects
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://raw.githubusercontent.com/jakebasa/jakebasa/main/assets/projects.gif" width="400" alt="Coding Animation" />
 </p>
 
 ---
