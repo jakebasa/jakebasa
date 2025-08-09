@@ -4,7 +4,7 @@
 </p>
 
 <!-- ====== INTRO ====== -->
-<h1 align="center">🚀 Hey, I'm JM</h1>
+<h1 align="center">🚀 Hey, I'm Jake</h1>
 <h3 align="center">Full-Stack Developer • Turning Ideas into Scalable Apps • Always Leveling Up</h3>
 
 <p align="center">
