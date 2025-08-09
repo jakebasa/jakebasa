@@ -11,9 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=Clean+Code+%7C+Practical+Solutions;Full-Stack+Development;React+%7C+Node.js+%7C+Supabase;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jakebasa/jakebasa/main/assets/wave-divider.gif" width="100%" />
-</p>
 
 ---
 
