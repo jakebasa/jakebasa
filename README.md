@@ -93,8 +93,7 @@
 ---
 
 ### 🏗️ What I'm Working On
-🚧 Coming soon!
-
+⌛ Coming soon… like my motivation on Mondays.
 <p align="center">
   <img src="https://raw.githubusercontent.com/jakebasa/jakebasa/main/assets/projects.gif" width="400" alt="Coding Animation" />
 </p>
