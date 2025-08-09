@@ -8,7 +8,7 @@
 <h3 align="center">Full-Stack Developer | Currently Debugging Life and Software</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=Always+Learning;Building+Better+Every+Day;Solving+Real+Problems;Pushing+My+Limits;Committed+to+Improvement;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=Always+Learning;Building+Better+Every+Day;Solving+Real+Problems;Committed+to+Improvement;Turning+Ideas+Into+Reality" alt="Typing Animation" />
 </p>
 
 ---
