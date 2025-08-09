@@ -34,7 +34,7 @@
 
 #### **🎨 Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,svelte,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,tailwind" />
   <img src="https://img.shields.io/badge/ShadCN_UI-%2300A3FF.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
