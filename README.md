@@ -8,7 +8,7 @@
 <h3 align="center">Full-Stack Developer • Turning Ideas into Scalable Apps • Always Leveling Up</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=Clean+Code+%7C+Practical+Solutions;Full-Stack+Development;React+%7C+Node.js+%7C+Supabase;Always+Learning+%26+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=Clean+Code+%7C+Practical+Solutions;Full-Stack+Development;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
 
