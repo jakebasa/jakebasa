@@ -33,38 +33,50 @@
 ---
 
 ### 🛠️ My Tech Arsenal
-
-#### 🗣️ Core Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,php,java" />
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="40" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="40" />
 </p>
 
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,svelte,html,css" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-%2300A3FF.svg?&style=for-the-badge&logoColor=white" />
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=svelte" title="Svelte" height="40" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40" />
 </p>
 
-#### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,postgres,mongodb,mysql,dotnet,php,laravel,spring" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
+<p align="center">
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" height="40" />
 </p>
 
-#### 🔐 Authentication & Security
-<p>
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<p align="center">
+  <!-- Tools & Others -->
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="40" />
 </p>
 
-#### 🤖 AI & Tools
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
-  <img src="https://img.shields.io/badge/MVC%20Pattern-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+
 
 ---
 
