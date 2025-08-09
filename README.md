@@ -27,37 +27,36 @@
 
 ### 🛠️ My Tech Arsenal
 
-#### **🗣️ Languages**
+#### 🗣️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,php,python,java" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,php,java" />
 </p>
 
-#### **🎨 Frontend**
+#### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,svelte,html,css" />
   <img src="https://img.shields.io/badge/ShadCN_UI-%2300A3FF.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
-#### **⚙️ Backend & Databases**
+#### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,php,laravel,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,dotnet,php,laravel" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
 </p>
 
-#### **🔐 Authentication & Security**
+#### 🔐 Authentication & Security
 <p>
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Password%20Hashing-FF6F61?style=for-the-badge" />
 </p>
 
-#### **🤖 AI & Tools**
+#### 🤖 AI & Tools
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=git,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
   <img src="https://img.shields.io/badge/MVC%20Pattern-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
