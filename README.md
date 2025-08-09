@@ -40,7 +40,7 @@
 
 #### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,dotnet,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,dotnet,php,laravel,spring" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
 </p>
