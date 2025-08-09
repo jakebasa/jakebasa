@@ -74,10 +74,8 @@
   <img src="https://raw.githubusercontent.com/jakebasa/jakebasa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <!-- 3D Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/jakebasa/jakebasa/output/profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" />
-</p>
+
+
 
 ---
 
