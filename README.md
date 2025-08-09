@@ -88,6 +88,6 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="#" /></a>
+  <a href="mailto:jakebasa0428@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
