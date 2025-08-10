@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=python" title="Python" height="40" />
   <img src="https://skillicons.dev/icons?i=cs" title="C#" height="40" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" height="40" />
 </p>
 
 <p align="center">
