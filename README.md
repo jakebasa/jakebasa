@@ -104,9 +104,12 @@
 <!-- TODO: Portfolio website -->
 ### 🌐 Portfolio
 
-🧑‍💻 https://jake-dev.vercel.app/
-
-
+<p align="center">
+  <a href="https://jake-dev.vercel.app/" target="_blank" 
+     style="display: inline-block; padding: 6px 12px; background-color: #22c55e; color: white; font-weight: 600; border-radius: 5px; text-decoration: none; font-family: Arial, sans-serif;">
+    Visit Portfolio
+  </a>
+</p>
 <!--
 ### 📫 Connect with Me
 <p align="center">
