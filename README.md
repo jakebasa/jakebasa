@@ -25,7 +25,6 @@
 ---
 
 ### 🎯 Current Focus
-📌 Learning **Spring Boot** for backend development  
 📌 Improving **full-stack skills** with real projects  
 📌 Getting better at **database design** and **API optimization**  
 📌 Building tools that solve **real problems** and scale well  
