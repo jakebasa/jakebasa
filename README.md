@@ -58,7 +58,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="40" />
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="40" />
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="40" />
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="40" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40" />
